@@ -1,8 +1,7 @@
 <img width="4096" height="1158" alt="【哲风壁纸】安静氛围-森林 (1)" src="https://github.com/user-attachments/assets/8b88fd6c-2cf8-4e5a-9849-ce15b0b1fe3a" />
 <br>
 <h3 align="left">欢迎来到 tcwzz 的世界...</h3>
-<br>
-<img src="https://placehold.co/1x2/transparent/transparent.png" width="1" height="2" alt="">
+<img src="https://placehold.co/1x2/transparent/transparent.png" width="1" height="1" alt="">
 <!--
 **tcwzz/tcwzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
