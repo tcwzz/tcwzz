@@ -1,6 +1,4 @@
-![Uploading 【哲风壁纸】安静氛围-森林 (1).jpg…]()
-
-![Uploading 【哲风壁纸】安静氛围-森林 (1).jpg…]()
+<img width="4096" height="1158" alt="【哲风壁纸】安静氛围-森林 (1)" src="https://github.com/user-attachments/assets/8b88fd6c-2cf8-4e5a-9849-ce15b0b1fe3a" />
 
 <!--
 **tcwzz/tcwzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
