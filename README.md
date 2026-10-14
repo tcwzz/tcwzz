@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<img width="524" height="296" alt="d72719db16577716ff9873663c20ea1" src="https://github.com/user-attachments/assets/934897d0-6d78-4b7e-80be-ac13f4f28509" />## Hi there 👋
+![Uploading d72719db16577716ff9873663c20ea1.png…]()
 <!--
 **tcwzz/tcwzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
